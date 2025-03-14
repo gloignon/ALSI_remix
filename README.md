@@ -1,4 +1,4 @@
-ALSI: Analyseur Lexico-Syntaxique Intégré
+# ALSI: Analyseur Lexico-Syntaxique Intégré
 ILSA: Integrated Lexico-Syntactic Analyzer
 
 Produces classic readability features and more advanced psycholinguistic features, including POS surprisal and dependency-tree based syntactic features.
