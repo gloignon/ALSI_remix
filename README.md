@@ -6,10 +6,10 @@ Produces classic readability features and more advanced psycholinguistic feature
 This is a complete re-write of the pipeline described Loignon (2021). Please cite the 2021 paper if you use ALSI/ILSA.
 
 Lexical frequency databases:
-* Manulex
-* ÉQOL
-* flelex
-* Lexique3
+* Manulex (Lété et al, 2004)
+* ÉQOL (Stanké et al, 2019)
+* flelex (François et al., 2014)
+* Lexique3 (New et al, 2012)
   
 I did not create these databases. Please cite the relevant papers if you use the lexical frequencies included in the ALSI/ILSA tool.
 
